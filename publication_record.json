@@ -1,0 +1,3415 @@
+{
+    "item": {
+        "ait:process-info": {
+            "ait:status": {
+                "@state": "update",
+                "@type": "core",
+                "@stage": "S300"
+            },
+            "ait:date-delivered": {
+                "@day": "05",
+                "@timestamp": "2018-03-05T09:17:11.000011-05:00",
+                "@year": "2018",
+                "@month": "03"
+            },
+            "ait:date-sort": {
+                "@day": "24",
+                "@year": "2015",
+                "@month": "08"
+            }
+        },
+        "bibrecord": {
+            "head": {
+                "author-group": [
+                    {
+                        "affiliation": {
+                            "country": "United States",
+                            "postal-code": "46556",
+                            "@afid": "60021508",
+                            "@country": "usa",
+                            "city": "Notre Dame",
+                            "organization": [
+                                {
+                                    "$": "Department of Chemistry and Biochemistry"
+                                },
+                                {
+                                    "$": "University of Notre Dame"
+                                }
+                            ],
+                            "affiliation-id": {
+                                "@afid": "60021508",
+                                "@dptid": "113687197"
+                            },
+                            "state": "Indiana",
+                            "@dptid": "113687197"
+                        },
+                        "author": [
+                            {
+                                "ce:given-name": "Yurii V.",
+                                "preferred-name": {
+                                    "ce:given-name": "Yurii V.",
+                                    "ce:initials": "Y.V.",
+                                    "ce:surname": "Morozov",
+                                    "ce:indexed-name": "Morozov Y."
+                                },
+                                "@seq": "1",
+                                "ce:initials": "Y.V.",
+                                "@_fa": "true",
+                                "@type": "auth",
+                                "ce:surname": "Morozov",
+                                "@auid": "55966498300",
+                                "ce:indexed-name": "Morozov Y.V."
+                            },
+                            {
+                                "ce:given-name": "Masaru",
+                                "preferred-name": {
+                                    "ce:given-name": "Masaru",
+                                    "ce:initials": "M.",
+                                    "ce:surname": "Kuno",
+                                    "ce:indexed-name": "Kuno M."
+                                },
+                                "@seq": "2",
+                                "ce:initials": "M.",
+                                "@_fa": "true",
+                                "@type": "auth",
+                                "ce:surname": "Kuno",
+                                "@auid": "7102147205",
+                                "ce:indexed-name": "Kuno M."
+                            }
+                        ]
+                    },
+                    {
+                        "affiliation": {
+                            "country": "Ukraine",
+                            "@afid": "60023137",
+                            "@country": "ukr",
+                            "city": "Kiev",
+                            "organization": [
+                                {
+                                    "$": "Department of Physics"
+                                },
+                                {
+                                    "$": "Taras Shevchenko National University"
+                                }
+                            ],
+                            "affiliation-id": {
+                                "@afid": "60023137",
+                                "@dptid": "112861205"
+                            },
+                            "@dptid": "112861205"
+                        },
+                        "author": [
+                            {
+                                "ce:given-name": "Yurii V.",
+                                "preferred-name": {
+                                    "ce:given-name": "Yurii V.",
+                                    "ce:initials": "Y.V.",
+                                    "ce:surname": "Morozov",
+                                    "ce:indexed-name": "Morozov Y."
+                                },
+                                "@seq": "1",
+                                "ce:initials": "Y.V.",
+                                "@_fa": "true",
+                                "@type": "auth",
+                                "ce:surname": "Morozov",
+                                "@auid": "55966498300",
+                                "ce:indexed-name": "Morozov Y.V."
+                            }
+                        ]
+                    }
+                ],
+                "citation-title": "Optical constants and dynamic conductivities of single layer MoS2, MoSe2, and WSe2",
+                "abstracts": "\u00a9 2015 AIP Publishing LLC. The complex optical constants of single layer MoS2, MoSe2, and WSe2 transition metal dichalcogenides (TMDCs) have been measured using concerted frequency-dependent transmittance and reflectance measurements. Absolute absorptivities as well as complex refractive indices and dielectric permittivities have been extracted. Comparisons to associated bulk responses reveal differences due to increased electron-hole interactions in single layer TMDCs. In parallel, corresponding complex optical conductivities (\u03c3) have been determined. For MoS2, extracted \u03c3-values qualitatively agree with recent theoretical estimates. Significant differences exist, though, between experiment and theory regarding the imaginary part of \u03c3. In all cases, the current approach distinguishes itself to other measurements of single layer TMDC optical constants in which it does not rely on Kramers-Kronig transformations of reflectance data.",
+                "citation-info": {
+                    "citation-type": {
+                        "@code": "ar"
+                    },
+                    "citation-language": {
+                        "@language": "English",
+                        "@xml:lang": "eng"
+                    },
+                    "abstract-language": {
+                        "@language": "English",
+                        "@xml:lang": "eng"
+                    }
+                },
+                "source": {
+                    "website": {
+                        "ce:e-address": {
+                            "$": "http://scitation.aip.org/content/aip/journal/apl",
+                            "@type": "email"
+                        }
+                    },
+                    "translated-sourcetitle": {
+                        "$": "Applied Physics Letters",
+                        "@xml:lang": "eng"
+                    },
+                    "volisspag": {
+                        "voliss": {
+                            "@volume": "107",
+                            "@issue": "8"
+                        }
+                    },
+                    "@type": "j",
+                    "sourcetitle": "Applied Physics Letters",
+                    "publicationdate": {
+                        "month": "08",
+                        "year": "2015",
+                        "date-text": {
+                            "@xfab-added": "true",
+                            "$": "24 August 2015"
+                        },
+                        "day": "24"
+                    },
+                    "codencode": "APPLA",
+                    "sourcetitle-abbrev": "Appl Phys Lett",
+                    "@country": "usa",
+                    "issn": {
+                        "$": "00036951",
+                        "@type": "print"
+                    },
+                    "publicationyear": {
+                        "@first": "2015"
+                    },
+                    "publisher": {
+                        "publishername": "American Institute of Physics Inc.",
+                        "ce:e-address": {
+                            "$": "subs@aip.org",
+                            "@type": "email"
+                        }
+                    },
+                    "article-number": "083103",
+                    "@srcid": "27030"
+                },
+                "enhancement": {
+                    "classificationgroup": {
+                        "classifications": [
+                            {
+                                "@type": "CPXCLASS",
+                                "classification": [
+                                    {
+                                        "classification-code": "531",
+                                        "classification-description": "Metallurgy and Metallography"
+                                    },
+                                    {
+                                        "classification-code": "741.1",
+                                        "classification-description": "Light and Optics"
+                                    },
+                                    {
+                                        "classification-code": "804.1",
+                                        "classification-description": "Organic Compounds"
+                                    }
+                                ]
+                            },
+                            {
+                                "@type": "FLXCLASS",
+                                "classification": {
+                                    "classification-code": "902",
+                                    "classification-description": "FLUIDEX; Related Topics"
+                                }
+                            },
+                            {
+                                "@type": "ASJC",
+                                "classification": "3101"
+                            },
+                            {
+                                "@type": "SUBJABBR",
+                                "classification": "PHYS"
+                            }
+                        ]
+                    }
+                }
+            },
+            "item-info": {
+                "copyright": {
+                    "$": "Copyright 2018 Elsevier B.V., All rights reserved.",
+                    "@type": "Elsevier"
+                },
+                "dbcollection": [
+                    {
+                        "$": "CPX"
+                    },
+                    {
+                        "$": "REAXYS"
+                    },
+                    {
+                        "$": "Scopusbase"
+                    }
+                ],
+                "history": {
+                    "date-created": {
+                        "@day": "20",
+                        "@timestamp": "BST 16:12:23",
+                        "@year": "2017",
+                        "@month": "04"
+                    }
+                },
+                "itemidlist": {
+                    "itemid": [
+                        {
+                            "$": "605803937",
+                            "@idtype": "PUI"
+                        },
+                        {
+                            "$": "639305400",
+                            "@idtype": "CAR-ID"
+                        },
+                        {
+                            "$": "20153501222787",
+                            "@idtype": "CPX"
+                        },
+                        {
+                            "$": "2015443241",
+                            "@idtype": "REAXYS"
+                        },
+                        {
+                            "$": "84940434926",
+                            "@idtype": "SCP"
+                        },
+                        {
+                            "$": "84940434926",
+                            "@idtype": "SGR"
+                        }
+                    ],
+                    "ce:doi": "10.1063/1.4929700"
+                }
+            },
+            "tail": {
+                "bibliography": {
+                    "@refcount": "45",
+                    "reference": [
+                        {
+                            "ref-fulltext": "K. S. Novoselov, A. K. Geim, S. V. Morozov, D. Jiang, M. I. Katsnelson, I. V. Grigorieva, S. V. Dubonos, and A. A. Firsov, Nature 438, 197 (2005). 10.1038/nature04233",
+                            "@id": "1",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2005"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "27744534165",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "438"
+                                    },
+                                    "pagerange": {
+                                        "@first": "197"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "K.S.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Novoselov",
+                                            "ce:indexed-name": "Novoselov K.S."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "A.K.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Geim",
+                                            "ce:indexed-name": "Geim A.K."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "S.V.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Morozov",
+                                            "ce:indexed-name": "Morozov S.V."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "D.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Jiang",
+                                            "ce:indexed-name": "Jiang D."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "M.I.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Katsnelson",
+                                            "ce:indexed-name": "Katsnelson M.I."
+                                        },
+                                        {
+                                            "@seq": "6",
+                                            "ce:initials": "I.V.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Grigorieva",
+                                            "ce:indexed-name": "Grigorieva I.V."
+                                        },
+                                        {
+                                            "@seq": "7",
+                                            "ce:initials": "S.V.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Dubonos",
+                                            "ce:indexed-name": "Dubonos S.V."
+                                        },
+                                        {
+                                            "@seq": "8",
+                                            "ce:initials": "A.A.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Firsov",
+                                            "ce:indexed-name": "Firsov A.A."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Nature"
+                            }
+                        },
+                        {
+                            "ref-fulltext": "Y. Zhang, Y.-W. Tan, H. L. Stormer, and P. Kim, Nature 438, 201 (2005). 10.1038/nature04235",
+                            "@id": "2",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2005"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "27744475163",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "438"
+                                    },
+                                    "pagerange": {
+                                        "@first": "201"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "Y.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Zhang",
+                                            "ce:indexed-name": "Zhang Y."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "Y.-W.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Tan",
+                                            "ce:indexed-name": "Tan Y.-W."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "H.L.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Stormer",
+                                            "ce:indexed-name": "Stormer H.L."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "P.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Kim",
+                                            "ce:indexed-name": "Kim P."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Nature"
+                            }
+                        },
+                        {
+                            "ref-fulltext": "K. F. Mak, C. Lee, J. Hone, J. Shan, and T. F. Heinz, Phys. Rev. Lett. 105, 136805 (2010). 10.1103/PhysRevLett.105.136805",
+                            "@id": "3",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2010"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": [
+                                        {
+                                            "$": "136805",
+                                            "@idtype": "ARTNUM"
+                                        },
+                                        {
+                                            "$": "77957204738",
+                                            "@idtype": "SGR"
+                                        }
+                                    ]
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "105"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "K.F.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Mak",
+                                            "ce:indexed-name": "Mak K.F."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "C.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Lee",
+                                            "ce:indexed-name": "Lee C."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Hone",
+                                            "ce:indexed-name": "Hone J."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Shan",
+                                            "ce:indexed-name": "Shan J."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "T.F.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Heinz",
+                                            "ce:indexed-name": "Heinz T.F."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Phys. Rev. Lett."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "K. F. Mak, K. He, C. Lee, G. H. Lee, J. Hone, T. F. Heinz, and J. Shan, Nat. Mater. 12, 207 (2013). 10.1038/nmat3505",
+                            "@id": "4",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2013"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "84875437247",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "12"
+                                    },
+                                    "pagerange": {
+                                        "@first": "207"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "K.F.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Mak",
+                                            "ce:indexed-name": "Mak K.F."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "K.",
+                                            "@_fa": "true",
+                                            "ce:surname": "He",
+                                            "ce:indexed-name": "He K."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "C.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Lee",
+                                            "ce:indexed-name": "Lee C."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "G.H.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Lee",
+                                            "ce:indexed-name": "Lee G.H."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Hone",
+                                            "ce:indexed-name": "Hone J."
+                                        },
+                                        {
+                                            "@seq": "6",
+                                            "ce:initials": "T.F.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Heinz",
+                                            "ce:indexed-name": "Heinz T.F."
+                                        },
+                                        {
+                                            "@seq": "7",
+                                            "ce:initials": "J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Shan",
+                                            "ce:indexed-name": "Shan J."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Nat. Mater."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "J. S. Ross, S. Wu, H. Yu, N. J. Ghimire, A. M. Jones, G. Aivazian, J. Yan, D. G. Mandrus, D. Xiao, W. Yao, and X. Xu, Nat. Commun. 4, 1474 (2013). 10.1038/ncomms2498",
+                            "@id": "5",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2013"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "84874582246",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "4"
+                                    },
+                                    "pagerange": {
+                                        "@first": "1474"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "J.S.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Ross",
+                                            "ce:indexed-name": "Ross J.S."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "S.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Wu",
+                                            "ce:indexed-name": "Wu S."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "H.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Yu",
+                                            "ce:indexed-name": "Yu H."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "N.J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Ghimire",
+                                            "ce:indexed-name": "Ghimire N.J."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "A.M.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Jones",
+                                            "ce:indexed-name": "Jones A.M."
+                                        },
+                                        {
+                                            "@seq": "6",
+                                            "ce:initials": "G.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Aivazian",
+                                            "ce:indexed-name": "Aivazian G."
+                                        },
+                                        {
+                                            "@seq": "7",
+                                            "ce:initials": "J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Yan",
+                                            "ce:indexed-name": "Yan J."
+                                        },
+                                        {
+                                            "@seq": "8",
+                                            "ce:initials": "D.G.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Mandrus",
+                                            "ce:indexed-name": "Mandrus D.G."
+                                        },
+                                        {
+                                            "@seq": "9",
+                                            "ce:initials": "D.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Xiao",
+                                            "ce:indexed-name": "Xiao D."
+                                        },
+                                        {
+                                            "@seq": "10",
+                                            "ce:initials": "W.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Yao",
+                                            "ce:indexed-name": "Yao W."
+                                        },
+                                        {
+                                            "@seq": "11",
+                                            "ce:initials": "X.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Xu",
+                                            "ce:indexed-name": "Xu X."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Nat. Commun."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "H. Zeng, J. Dai, W. Yao, D. Xiao, and X. Cui, Nat. Nanotechnol. 7, 490 (2012). 10.1038/nnano.2012.95",
+                            "@id": "6",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2012"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "84864881664",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "7"
+                                    },
+                                    "pagerange": {
+                                        "@first": "490"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "H.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Zeng",
+                                            "ce:indexed-name": "Zeng H."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Dai",
+                                            "ce:indexed-name": "Dai J."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "W.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Yao",
+                                            "ce:indexed-name": "Yao W."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "D.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Xiao",
+                                            "ce:indexed-name": "Xiao D."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "X.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Cui",
+                                            "ce:indexed-name": "Cui X."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Nat. Nanotechnol."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "T. Cao, G. Wang, W. Han, H. Ye, C. Zhu, J. Shi, Q. Niu, P. Tan, E. Wang, B. Liu, and J. Feng, Nat. Commun. 3, 887 (2012). 10.1038/ncomms1882",
+                            "@id": "7",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2012"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "84863325332",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "3"
+                                    },
+                                    "pagerange": {
+                                        "@first": "887"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "T.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Cao",
+                                            "ce:indexed-name": "Cao T."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "G.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Wang",
+                                            "ce:indexed-name": "Wang G."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "W.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Han",
+                                            "ce:indexed-name": "Han W."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "H.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Ye",
+                                            "ce:indexed-name": "Ye H."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "C.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Zhu",
+                                            "ce:indexed-name": "Zhu C."
+                                        },
+                                        {
+                                            "@seq": "6",
+                                            "ce:initials": "J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Shi",
+                                            "ce:indexed-name": "Shi J."
+                                        },
+                                        {
+                                            "@seq": "7",
+                                            "ce:initials": "Q.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Niu",
+                                            "ce:indexed-name": "Niu Q."
+                                        },
+                                        {
+                                            "@seq": "8",
+                                            "ce:initials": "P.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Tan",
+                                            "ce:indexed-name": "Tan P."
+                                        },
+                                        {
+                                            "@seq": "9",
+                                            "ce:initials": "E.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Wang",
+                                            "ce:indexed-name": "Wang E."
+                                        },
+                                        {
+                                            "@seq": "10",
+                                            "ce:initials": "B.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Liu",
+                                            "ce:indexed-name": "Liu B."
+                                        },
+                                        {
+                                            "@seq": "11",
+                                            "ce:initials": "J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Feng",
+                                            "ce:indexed-name": "Feng J."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Nat. Commun."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "K. F. Mak, K. He, J. Shan, and T. F. Heinz, Nat. Nanotechnol. 7, 494 (2012). 10.1038/nnano.2012.96",
+                            "@id": "8",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2012"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "84864874878",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "7"
+                                    },
+                                    "pagerange": {
+                                        "@first": "494"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "K.F.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Mak",
+                                            "ce:indexed-name": "Mak K.F."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "K.",
+                                            "@_fa": "true",
+                                            "ce:surname": "He",
+                                            "ce:indexed-name": "He K."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Shan",
+                                            "ce:indexed-name": "Shan J."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "T.F.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Heinz",
+                                            "ce:indexed-name": "Heinz T.F."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Nat. Nanotechnol."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "B. Radisavljevic, A. Radenovic, J. Brivio, V. Giacometti, and A. Kis, Nat. Nanotechnol. 6, 147 (2011). 10.1038/nnano.2010.279",
+                            "@id": "9",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2011"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "79952406873",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "6"
+                                    },
+                                    "pagerange": {
+                                        "@first": "147"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "B.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Radisavljevic",
+                                            "ce:indexed-name": "Radisavljevic B."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "A.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Radenovic",
+                                            "ce:indexed-name": "Radenovic A."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Brivio",
+                                            "ce:indexed-name": "Brivio J."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "V.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Giacometti",
+                                            "ce:indexed-name": "Giacometti V."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "A.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Kis",
+                                            "ce:indexed-name": "Kis A."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Nat. Nanotechnol."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "R. S. Sundaram, M. Engel, A. Lombardo, R. Krupke, A. C. Ferrari, P. Avouris, and M. Steiner, Nano Lett. 13, 1416 (2013). 10.1021/nl400516a",
+                            "@id": "10",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2013"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "84876063289",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "13"
+                                    },
+                                    "pagerange": {
+                                        "@first": "1416"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "R.S.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Sundaram",
+                                            "ce:indexed-name": "Sundaram R.S."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "M.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Engel",
+                                            "ce:indexed-name": "Engel M."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "A.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Lombardo",
+                                            "ce:indexed-name": "Lombardo A."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "R.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Krupke",
+                                            "ce:indexed-name": "Krupke R."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "A.C.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Ferrari",
+                                            "ce:indexed-name": "Ferrari A.C."
+                                        },
+                                        {
+                                            "@seq": "6",
+                                            "ce:initials": "P.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Avouris",
+                                            "ce:indexed-name": "Avouris P."
+                                        },
+                                        {
+                                            "@seq": "7",
+                                            "ce:initials": "M.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Steiner",
+                                            "ce:indexed-name": "Steiner M."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Nano Lett."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "M. Tsai, S. Su, J. Chang, D. Tsai, C. Chen, C. Wu, L. Li, L. Chen, and J. He, ACS Nano 8, 8317 (2014). 10.1021/nn502776h",
+                            "@id": "11",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2014"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "84906652964",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "8"
+                                    },
+                                    "pagerange": {
+                                        "@first": "8317"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "M.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Tsai",
+                                            "ce:indexed-name": "Tsai M."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "S.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Su",
+                                            "ce:indexed-name": "Su S."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Chang",
+                                            "ce:indexed-name": "Chang J."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "D.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Tsai",
+                                            "ce:indexed-name": "Tsai D."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "C.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Chen",
+                                            "ce:indexed-name": "Chen C."
+                                        },
+                                        {
+                                            "@seq": "6",
+                                            "ce:initials": "C.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Wu",
+                                            "ce:indexed-name": "Wu C."
+                                        },
+                                        {
+                                            "@seq": "7",
+                                            "ce:initials": "L.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Li",
+                                            "ce:indexed-name": "Li L."
+                                        },
+                                        {
+                                            "@seq": "8",
+                                            "ce:initials": "L.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Chen",
+                                            "ce:indexed-name": "Chen L."
+                                        },
+                                        {
+                                            "@seq": "9",
+                                            "ce:initials": "J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "He",
+                                            "ce:indexed-name": "He J."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "ACS Nano"
+                            }
+                        },
+                        {
+                            "ref-fulltext": "A. I. Ekimov, I. A. Kudryavtsev, Al. L. Efros, T. V. Yazeva, F. Hache, M. C. Schanne-Klein, A. V. Rodina, D. Ricard, and C. Flytzanis, J. Opt. Soc. Am. B 10, 100 (1993). 10.1364/JOSAB.10.000100",
+                            "@id": "12",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "1993"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "84892667995",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "10"
+                                    },
+                                    "pagerange": {
+                                        "@first": "100"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "A.I.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Ekimov",
+                                            "ce:indexed-name": "Ekimov A.I."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "I.A.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Kudryavtsev",
+                                            "ce:indexed-name": "Kudryavtsev I.A."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "Al.L.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Efros",
+                                            "ce:indexed-name": "Efros Al.L."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "T.V.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Yazeva",
+                                            "ce:indexed-name": "Yazeva T.V."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "F.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Hache",
+                                            "ce:indexed-name": "Hache F."
+                                        },
+                                        {
+                                            "@seq": "6",
+                                            "ce:initials": "M.C.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Schanne-Klein",
+                                            "ce:indexed-name": "Schanne-Klein M.C."
+                                        },
+                                        {
+                                            "@seq": "7",
+                                            "ce:initials": "A.V.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Rodina",
+                                            "ce:indexed-name": "Rodina A.V."
+                                        },
+                                        {
+                                            "@seq": "8",
+                                            "ce:initials": "D.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Ricard",
+                                            "ce:indexed-name": "Ricard D."
+                                        },
+                                        {
+                                            "@seq": "9",
+                                            "ce:initials": "C.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Flytzanis",
+                                            "ce:indexed-name": "Flytzanis C."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "J. Opt. Soc. Am. B"
+                            }
+                        },
+                        {
+                            "ref-fulltext": "D. J. Norris and M. G. Bawendi, Phys. Rev. B 53, 16338 (1996). 10.1103/PhysRevB.53.16338",
+                            "@id": "13",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "1996"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "0000915740",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "53"
+                                    },
+                                    "pagerange": {
+                                        "@first": "16338"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "D.J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Norris",
+                                            "ce:indexed-name": "Norris D.J."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "M.G.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Bawendi",
+                                            "ce:indexed-name": "Bawendi M.G."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Phys. Rev. B"
+                            }
+                        },
+                        {
+                            "ref-fulltext": "H. Yu, J. Li, R. A. Loomis, L.-W. Wang, and W. E. Buhro, Nat. Mater. 2, 517 (2003). 10.1038/nmat942",
+                            "@id": "14",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2003"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "0041784066",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "2"
+                                    },
+                                    "pagerange": {
+                                        "@first": "517"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "H.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Yu",
+                                            "ce:indexed-name": "Yu H."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Li",
+                                            "ce:indexed-name": "Li J."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "R.A.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Loomis",
+                                            "ce:indexed-name": "Loomis R.A."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "L.-W.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Wang",
+                                            "ce:indexed-name": "Wang L.-W."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "W.E.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Buhro",
+                                            "ce:indexed-name": "Buhro W.E."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Nat. Mater."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "J. Giblin, F. Vietmeyer, M. P. McDonald, and M. Kuno, Nano Lett. 11, 3307 (2011). 10.1021/nl201679d",
+                            "@id": "15",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2011"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "80051632547",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "11"
+                                    },
+                                    "pagerange": {
+                                        "@first": "3307"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Giblin",
+                                            "ce:indexed-name": "Giblin J."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "F.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Vietmeyer",
+                                            "ce:indexed-name": "Vietmeyer F."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "M.P.",
+                                            "@_fa": "true",
+                                            "ce:surname": "McDonald",
+                                            "ce:indexed-name": "McDonald M.P."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "M.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Kuno",
+                                            "ce:indexed-name": "Kuno M."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Nano Lett."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "S. Ithurria, M. D. Tessier, B. Mahler, R. P. S. M. Lobo, B. Dubertret, and A. L. Efros, Nat. Mater. 10, 936 (2011). 10.1038/nmat3145",
+                            "@id": "16",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2011"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "81955164766",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "10"
+                                    },
+                                    "pagerange": {
+                                        "@first": "936"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "S.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Ithurria",
+                                            "ce:indexed-name": "Ithurria S."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "M.D.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Tessier",
+                                            "ce:indexed-name": "Tessier M.D."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "B.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Mahler",
+                                            "ce:indexed-name": "Mahler B."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "R.P.S.M.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Lobo",
+                                            "ce:indexed-name": "Lobo R.P.S.M."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "B.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Dubertret",
+                                            "ce:indexed-name": "Dubertret B."
+                                        },
+                                        {
+                                            "@seq": "6",
+                                            "ce:initials": "A.L.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Efros",
+                                            "ce:indexed-name": "Efros A.L."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Nat. Mater."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "D. A. Sokolov, Y. V. Morozov, M. P. McDonald, F. Vietmeyer, J. H. Hodak, and M. Kuno, Nano Lett. 14, 3172 (2014). 10.1021/nl500485n",
+                            "@id": "17",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2014"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "84902246571",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "14"
+                                    },
+                                    "pagerange": {
+                                        "@first": "3172"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "D.A.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Sokolov",
+                                            "ce:indexed-name": "Sokolov D.A."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "Y.V.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Morozov",
+                                            "ce:indexed-name": "Morozov Y.V."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "M.P.",
+                                            "@_fa": "true",
+                                            "ce:surname": "McDonald",
+                                            "ce:indexed-name": "McDonald M.P."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "F.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Vietmeyer",
+                                            "ce:indexed-name": "Vietmeyer F."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "J.H.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Hodak",
+                                            "ce:indexed-name": "Hodak J.H."
+                                        },
+                                        {
+                                            "@seq": "6",
+                                            "ce:initials": "M.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Kuno",
+                                            "ce:indexed-name": "Kuno M."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Nano Lett."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "R. R. Nair, P. Blake, A. N. Grigorenko, K. S. Novoselov, T. J. Booth, T. Stauber, N. M. R. Peres, and A. K. Geim, Science 320, 1308 (2008). 10.1126/science.1156965",
+                            "@id": "18",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2008"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "45349092986",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "320"
+                                    },
+                                    "pagerange": {
+                                        "@first": "1308"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "R.R.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Nair",
+                                            "ce:indexed-name": "Nair R.R."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "P.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Blake",
+                                            "ce:indexed-name": "Blake P."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "A.N.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Grigorenko",
+                                            "ce:indexed-name": "Grigorenko A.N."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "K.S.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Novoselov",
+                                            "ce:indexed-name": "Novoselov K.S."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "T.J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Booth",
+                                            "ce:indexed-name": "Booth T.J."
+                                        },
+                                        {
+                                            "@seq": "6",
+                                            "ce:initials": "T.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Stauber",
+                                            "ce:indexed-name": "Stauber T."
+                                        },
+                                        {
+                                            "@seq": "7",
+                                            "ce:initials": "N.M.R.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Peres",
+                                            "ce:indexed-name": "Peres N.M.R."
+                                        },
+                                        {
+                                            "@seq": "8",
+                                            "ce:initials": "A.K.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Geim",
+                                            "ce:indexed-name": "Geim A.K."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Science"
+                            }
+                        },
+                        {
+                            "ref-fulltext": "W. Zhao, Z. Ghorannevis, L. Chu, M. Toh, C. Kloc, P.-H. Tan, and G. Eda, ACS Nano 7, 791 (2013). 10.1021/nn305275h",
+                            "@id": "19",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2013"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "84872845513",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "7"
+                                    },
+                                    "pagerange": {
+                                        "@first": "791"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "W.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Zhao",
+                                            "ce:indexed-name": "Zhao W."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "Z.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Ghorannevis",
+                                            "ce:indexed-name": "Ghorannevis Z."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "L.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Chu",
+                                            "ce:indexed-name": "Chu L."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "M.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Toh",
+                                            "ce:indexed-name": "Toh M."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "C.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Kloc",
+                                            "ce:indexed-name": "Kloc C."
+                                        },
+                                        {
+                                            "@seq": "6",
+                                            "ce:initials": "P.-H.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Tan",
+                                            "ce:indexed-name": "Tan P.-H."
+                                        },
+                                        {
+                                            "@seq": "7",
+                                            "ce:initials": "G.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Eda",
+                                            "ce:indexed-name": "Eda G."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "ACS Nano"
+                            }
+                        },
+                        {
+                            "ref-fulltext": "T. Ando, Y. Zheng, and H. Suzuura, J. Phys. Soc. Jpn. 71, 1318 (2002). 10.1143/JPSJ.71.1318",
+                            "@id": "20",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2002"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "0036302573",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "71"
+                                    },
+                                    "pagerange": {
+                                        "@first": "1318"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "T.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Ando",
+                                            "ce:indexed-name": "Ando T."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "Y.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Zheng",
+                                            "ce:indexed-name": "Zheng Y."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "H.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Suzuura",
+                                            "ce:indexed-name": "Suzuura H."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "J. Phys. Soc. Jpn."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "V. P. Gusynin, S. G. Sharapov, and J. P. Carbotte, Phys. Rev. Lett. 96, 256802 (2006). 10.1103/PhysRevLett.96.256802",
+                            "@id": "21",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2006"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": [
+                                        {
+                                            "$": "256802",
+                                            "@idtype": "ARTNUM"
+                                        },
+                                        {
+                                            "$": "33745584364",
+                                            "@idtype": "SGR"
+                                        }
+                                    ]
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "96"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "V.P.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Gusynin",
+                                            "ce:indexed-name": "Gusynin V.P."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "S.G.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Sharapov",
+                                            "ce:indexed-name": "Sharapov S.G."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "J.P.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Carbotte",
+                                            "ce:indexed-name": "Carbotte J.P."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Phys. Rev. Lett."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "H. Fang, H. A. Bechtel, E. Plis, M. C. Martin, S. Krishna, E. Yablonovitch, and A. Javey, Proc. Natl. Acad. Sci. U.S.A. 110, 11688 (2013). 10.1073/pnas.1309563110",
+                            "@id": "22",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2013"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "84880391383",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "110"
+                                    },
+                                    "pagerange": {
+                                        "@first": "11688"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "H.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Fang",
+                                            "ce:indexed-name": "Fang H."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "H.A.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Bechtel",
+                                            "ce:indexed-name": "Bechtel H.A."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "E.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Plis",
+                                            "ce:indexed-name": "Plis E."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "M.C.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Martin",
+                                            "ce:indexed-name": "Martin M.C."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "S.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Krishna",
+                                            "ce:indexed-name": "Krishna S."
+                                        },
+                                        {
+                                            "@seq": "6",
+                                            "ce:initials": "E.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Yablonovitch",
+                                            "ce:indexed-name": "Yablonovitch E."
+                                        },
+                                        {
+                                            "@seq": "7",
+                                            "ce:initials": "A.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Javey",
+                                            "ce:indexed-name": "Javey A."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Proc. Natl. Acad. Sci. U.S.A."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "T. Stauber, D. Noriega-Perez, and J. Schliemann, Phys. Rev. B 91, 115407 (2015). 10.1103/PhysRevB.91.115407",
+                            "@id": "23",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2015"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": [
+                                        {
+                                            "$": "115407",
+                                            "@idtype": "ARTNUM"
+                                        },
+                                        {
+                                            "$": "84924366223",
+                                            "@idtype": "SGR"
+                                        }
+                                    ]
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "91"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "T.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Stauber",
+                                            "ce:indexed-name": "Stauber T."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "D.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Noriega-Perez",
+                                            "ce:indexed-name": "Noriega-Perez D."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Schliemann",
+                                            "ce:indexed-name": "Schliemann J."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Phys. Rev. B"
+                            }
+                        },
+                        {
+                            "ref-fulltext": "M. Born and E. Wolf, Principles of Optics: Electromagnetic Theory of Propagation, Interference and Diffraction of Light (Macmillian, New York, 1964).",
+                            "@id": "24",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "1964"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "0004139059",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-text": "(Macmillian, New York).",
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "M.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Born",
+                                            "ce:indexed-name": "Born M."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "E.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Wolf",
+                                            "ce:indexed-name": "Wolf E."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Principles of Optics: Electromagnetic Theory of Propagation, Interference and Diffraction of Light"
+                            }
+                        },
+                        {
+                            "ref-fulltext": "Y. Li, A. Chernikov, X. Zhang, A. Rigosi, H. M. Hill, A. M. van der Zande, D. A. Chenet, E.-M. Shih, J. Hone, and T. F. Heinz, Phys. Rev. B 90, 205422 (2014). 10.1103/PhysRevB.90.205422",
+                            "@id": "25",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2014"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": [
+                                        {
+                                            "$": "205422",
+                                            "@idtype": "ARTNUM"
+                                        },
+                                        {
+                                            "$": "84911370010",
+                                            "@idtype": "SGR"
+                                        }
+                                    ]
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "90"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "Y.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Li",
+                                            "ce:indexed-name": "Li Y."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "A.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Chernikov",
+                                            "ce:indexed-name": "Chernikov A."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "X.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Zhang",
+                                            "ce:indexed-name": "Zhang X."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "A.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Rigosi",
+                                            "ce:indexed-name": "Rigosi A."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "H.M.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Hill",
+                                            "ce:indexed-name": "Hill H.M."
+                                        },
+                                        {
+                                            "@seq": "6",
+                                            "ce:initials": "A.M.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Van Der Zande",
+                                            "ce:indexed-name": "Van Der Zande A.M."
+                                        },
+                                        {
+                                            "@seq": "7",
+                                            "ce:initials": "D.A.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Chenet",
+                                            "ce:indexed-name": "Chenet D.A."
+                                        },
+                                        {
+                                            "@seq": "8",
+                                            "ce:initials": "E.-M.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Shih",
+                                            "ce:indexed-name": "Shih E.-M."
+                                        },
+                                        {
+                                            "@seq": "9",
+                                            "ce:initials": "J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Hone",
+                                            "ce:indexed-name": "Hone J."
+                                        },
+                                        {
+                                            "@seq": "10",
+                                            "ce:initials": "T.F.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Heinz",
+                                            "ce:indexed-name": "Heinz T.F."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Phys. Rev. B"
+                            }
+                        },
+                        {
+                            "ref-fulltext": "H. Wang, C. Zhang, and F. Rana, Nano Lett. 15, 339 (2015). 10.1021/nl503636c",
+                            "@id": "26",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2015"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "84920954961",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "15"
+                                    },
+                                    "pagerange": {
+                                        "@first": "339"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "H.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Wang",
+                                            "ce:indexed-name": "Wang H."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "C.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Zhang",
+                                            "ce:indexed-name": "Zhang C."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "F.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Rana",
+                                            "ce:indexed-name": "Rana F."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Nano Lett."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "A. Castellanos-Gomez, N. Agrat, and G. Rubio-Bollinger, Appl. Phys. Lett. 96, 213116 (2010). 10.1063/1.3442495",
+                            "@id": "27",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2010"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": [
+                                        {
+                                            "$": "213116",
+                                            "@idtype": "ARTNUM"
+                                        },
+                                        {
+                                            "$": "77956233994",
+                                            "@idtype": "SGR"
+                                        }
+                                    ]
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "96"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "A.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Castellanos-Gomez",
+                                            "ce:indexed-name": "Castellanos-Gomez A."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "N.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Agrat",
+                                            "ce:indexed-name": "Agrat N."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "G.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Rubio-Bollinger",
+                                            "ce:indexed-name": "Rubio-Bollinger G."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Appl. Phys. Lett."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "C. Yim, M. O'Brien, N. McEvoy, S. Winters, I. Mirza, J. G. Lunney, and G. S. Duesberg, Appl. Phys. Lett. 104, 103114 (2014). 10.1063/1.4868108",
+                            "@id": "28",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2014"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": [
+                                        {
+                                            "$": "103114",
+                                            "@idtype": "ARTNUM"
+                                        },
+                                        {
+                                            "$": "84896270614",
+                                            "@idtype": "SGR"
+                                        }
+                                    ]
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "104"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "C.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Yim",
+                                            "ce:indexed-name": "Yim C."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "M.",
+                                            "@_fa": "true",
+                                            "ce:surname": "O'Brien",
+                                            "ce:indexed-name": "O'Brien M."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "N.",
+                                            "@_fa": "true",
+                                            "ce:surname": "McEvoy",
+                                            "ce:indexed-name": "McEvoy N."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "S.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Winters",
+                                            "ce:indexed-name": "Winters S."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "I.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Mirza",
+                                            "ce:indexed-name": "Mirza I."
+                                        },
+                                        {
+                                            "@seq": "6",
+                                            "ce:initials": "J.G.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Lunney",
+                                            "ce:indexed-name": "Lunney J.G."
+                                        },
+                                        {
+                                            "@seq": "7",
+                                            "ce:initials": "G.S.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Duesberg",
+                                            "ce:indexed-name": "Duesberg G.S."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Appl. Phys. Lett."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "C.-C. Shen, Y.-T. Hsu, L.-J. Li, and H.-L. Liu, Appl. Phys. Express 6, 125801 (2013). 10.7567/APEX.6.125801",
+                            "@id": "29",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2013"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": [
+                                        {
+                                            "$": "125801",
+                                            "@idtype": "ARTNUM"
+                                        },
+                                        {
+                                            "$": "84890765247",
+                                            "@idtype": "SGR"
+                                        }
+                                    ]
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "6"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "C.-C.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Shen",
+                                            "ce:indexed-name": "Shen C.-C."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "Y.-T.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Hsu",
+                                            "ce:indexed-name": "Hsu Y.-T."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "L.-J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Li",
+                                            "ce:indexed-name": "Li L.-J."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "H.-L.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Liu",
+                                            "ce:indexed-name": "Liu H.-L."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Appl. Phys. Express"
+                            }
+                        },
+                        {
+                            "ref-fulltext": "W. Li, A. G. Birdwell, M. Amani, R. A. Burke, X. Ling, Y.-H. Lee, X. Liang, L. Peng, C. A. Richter, J. Kong, D. J. Gundlach, and N. V. Nguyen, Phys. Rev. B 90, 195434 (2014). 10.1103/PhysRevB.90.195434",
+                            "@id": "30",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2014"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": [
+                                        {
+                                            "$": "195434",
+                                            "@idtype": "ARTNUM"
+                                        },
+                                        {
+                                            "$": "84919361189",
+                                            "@idtype": "SGR"
+                                        }
+                                    ]
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "90"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "W.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Li",
+                                            "ce:indexed-name": "Li W."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "A.G.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Birdwell",
+                                            "ce:indexed-name": "Birdwell A.G."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "M.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Amani",
+                                            "ce:indexed-name": "Amani M."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "R.A.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Burke",
+                                            "ce:indexed-name": "Burke R.A."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "X.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Ling",
+                                            "ce:indexed-name": "Ling X."
+                                        },
+                                        {
+                                            "@seq": "6",
+                                            "ce:initials": "Y.-H.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Lee",
+                                            "ce:indexed-name": "Lee Y.-H."
+                                        },
+                                        {
+                                            "@seq": "7",
+                                            "ce:initials": "X.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Liang",
+                                            "ce:indexed-name": "Liang X."
+                                        },
+                                        {
+                                            "@seq": "8",
+                                            "ce:initials": "L.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Peng",
+                                            "ce:indexed-name": "Peng L."
+                                        },
+                                        {
+                                            "@seq": "9",
+                                            "ce:initials": "C.A.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Richter",
+                                            "ce:indexed-name": "Richter C.A."
+                                        },
+                                        {
+                                            "@seq": "10",
+                                            "ce:initials": "J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Kong",
+                                            "ce:indexed-name": "Kong J."
+                                        },
+                                        {
+                                            "@seq": "11",
+                                            "ce:initials": "D.J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Gundlach",
+                                            "ce:indexed-name": "Gundlach D.J."
+                                        },
+                                        {
+                                            "@seq": "12",
+                                            "ce:initials": "N.V.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Nguyen",
+                                            "ce:indexed-name": "Nguyen N.V."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Phys. Rev. B"
+                            }
+                        },
+                        {
+                            "ref-fulltext": "H. Zhang, Y. Ma, Y. Wan, X. Rong, Z. Xie, W. Wang, and L. Dai, Sci. Rep. 5, 8440 (2015). 10.1038/srep08440",
+                            "@id": "31",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2015"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "84940416182",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "5"
+                                    },
+                                    "pagerange": {
+                                        "@first": "8440"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "H.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Zhang",
+                                            "ce:indexed-name": "Zhang H."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "Y.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Ma",
+                                            "ce:indexed-name": "Ma Y."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "Y.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Wan",
+                                            "ce:indexed-name": "Wan Y."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "X.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Rong",
+                                            "ce:indexed-name": "Rong X."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "Z.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Xie",
+                                            "ce:indexed-name": "Xie Z."
+                                        },
+                                        {
+                                            "@seq": "6",
+                                            "ce:initials": "W.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Wang",
+                                            "ce:indexed-name": "Wang W."
+                                        },
+                                        {
+                                            "@seq": "7",
+                                            "ce:initials": "L.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Dai",
+                                            "ce:indexed-name": "Dai L."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Sci. Rep."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "P. Tonndorf, R. Schmidt, P. B\u00f6ttger, X. Zhang, J. B\u00f6rner, A. Liebig, M. Albrecht, C. Kloc, O. Gordan, D. R. T. Zahn, S. M. De Vasconcellos, and R. Bratschitsch, Opt. Express 21, 4908 (2013). 10.1364/OE.21.004908",
+                            "@id": "32",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2013"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "84874521110",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "21"
+                                    },
+                                    "pagerange": {
+                                        "@first": "4908"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "P.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Tonndorf",
+                                            "ce:indexed-name": "Tonndorf P."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "R.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Schmidt",
+                                            "ce:indexed-name": "Schmidt R."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "P.",
+                                            "@_fa": "true",
+                                            "ce:surname": "B\u00f6ttger",
+                                            "ce:indexed-name": "Bottger P."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "X.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Zhang",
+                                            "ce:indexed-name": "Zhang X."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "J.",
+                                            "@_fa": "true",
+                                            "ce:surname": "B\u00f6rner",
+                                            "ce:indexed-name": "Borner J."
+                                        },
+                                        {
+                                            "@seq": "6",
+                                            "ce:initials": "A.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Liebig",
+                                            "ce:indexed-name": "Liebig A."
+                                        },
+                                        {
+                                            "@seq": "7",
+                                            "ce:initials": "M.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Albrecht",
+                                            "ce:indexed-name": "Albrecht M."
+                                        },
+                                        {
+                                            "@seq": "8",
+                                            "ce:initials": "C.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Kloc",
+                                            "ce:indexed-name": "Kloc C."
+                                        },
+                                        {
+                                            "@seq": "9",
+                                            "ce:initials": "O.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Gordan",
+                                            "ce:indexed-name": "Gordan O."
+                                        },
+                                        {
+                                            "@seq": "10",
+                                            "ce:initials": "D.R.T.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Zahn",
+                                            "ce:indexed-name": "Zahn D.R.T."
+                                        },
+                                        {
+                                            "@seq": "11",
+                                            "ce:initials": "S.M.",
+                                            "@_fa": "true",
+                                            "ce:surname": "De Vasconcellos",
+                                            "ce:indexed-name": "De Vasconcellos S.M."
+                                        },
+                                        {
+                                            "@seq": "12",
+                                            "ce:initials": "R.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Bratschitsch",
+                                            "ce:indexed-name": "Bratschitsch R."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Opt. Express"
+                            }
+                        },
+                        {
+                            "ref-fulltext": "See supplementary material at http://dx.doi.org/10.1063/1.4929700 E-APPLAB-107-026535 for the following: schematic of the experimental setup; Raman spectra of MoS2as a function of layer thickness; raster scanned transmission images of single layer MoSe2and WSe2; Sellmeier equation for borosilicate glass; absorptance spectra of single layer MoSe2and WSe2; explicit expressions for T and R of the film surrounded by dielectric media; complete analytical expressions for f \u00b1 and evaluation algorithm for extracting n and k from f \u00b1; single layer MoSe2dielectric permittivities extracted for different thicknesses; illustration of the orientation of n1and n2relative to the incident light; default and reversed orientation T, R, and A spectra for MoSe2.",
+                            "@id": "33",
+                            "ref-info": {
+                                "ref-website": {
+                                    "ce:e-address": {
+                                        "$": "http://dx.doi.org/10.1063/1.4929700",
+                                        "@type": "email"
+                                    }
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "85042575404",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-text": "See supplementary material at E-APPLAB-107-026535 for the following: schematic of the experimental setup; Raman spectra of MoS2as a function of layer thickness; raster scanned transmission images of single layer MoSe2and WSe2; Sellmeier equation for borosilicate glass; absorptance spectra of single layer MoSe2and WSe2; explicit expressions for T and R of the film surrounded by dielectric media; complete analytical expressions for f \u00b1 and evaluation algorithm for extracting n and k from f \u00b1; single layer MoSe2dielectric permittivities extracted for different thicknesses; illustration of the orientation of n1and n2relative to the incident light; default and reversed orientation T, R, and A spectra for MoSe2"
+                            }
+                        },
+                        {
+                            "ref-fulltext": "G. Ghosh, Appl. Opt. 36, 1540 (1997). 10.1364/AO.36.001540",
+                            "@id": "34",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "1997"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "0031096087",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "36"
+                                    },
+                                    "pagerange": {
+                                        "@first": "1540"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "G.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Ghosh",
+                                            "ce:indexed-name": "Ghosh G."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Appl. Opt."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "O. S. Heavens, Rep. Prog. Phys. 23, 1 (1960). 10.1088/0034-4885/23/1/301",
+                            "@id": "35",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "1960"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "0002649704",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "23"
+                                    },
+                                    "pagerange": {
+                                        "@first": "1"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "O.S.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Heavens",
+                                            "ce:indexed-name": "Heavens O.S."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Rep. Prog. Phys."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "R. E. Denton, R. D. Campbell, and S. G. Tomlin, J. Phys. D: Appl. Phys. 5, 852 (1972). 10.1088/0022-3727/5/4/329",
+                            "@id": "36",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "1972"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "0015326983",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "5"
+                                    },
+                                    "pagerange": {
+                                        "@first": "852"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "R.E.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Denton",
+                                            "ce:indexed-name": "Denton R.E."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "R.D.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Campbell",
+                                            "ce:indexed-name": "Campbell R.D."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "S.G.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Tomlin",
+                                            "ce:indexed-name": "Tomlin S.G."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "J. Phys. D: Appl. Phys."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "A. R. Beal and H. P. Hughes, J. Phys. C: Solid State Phys. 12, 881 (1979). 10.1088/0022-3719/12/5/017",
+                            "@id": "37",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "1979"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "0000641610",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "12"
+                                    },
+                                    "pagerange": {
+                                        "@first": "881"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "A.R.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Beal",
+                                            "ce:indexed-name": "Beal A.R."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "H.P.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Hughes",
+                                            "ce:indexed-name": "Hughes H.P."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "J. Phys. C: Solid State Phys."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "A. R. Beal, W. Y. Liang, and H. P. Hughes, J. Phys. C: Solid State Phys. 9, 2449 (1976). 10.1088/0022-3719/9/12/027",
+                            "@id": "38",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "1976"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "0001198041",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "9"
+                                    },
+                                    "pagerange": {
+                                        "@first": "2449"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "A.R.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Beal",
+                                            "ce:indexed-name": "Beal A.R."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "W.Y.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Liang",
+                                            "ce:indexed-name": "Liang W.Y."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "H.P.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Hughes",
+                                            "ce:indexed-name": "Hughes H.P."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "J. Phys. C: Solid State Phys."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "A. Chernikov, T. C. Berkelbach, H. M. Hill, A. Rigosi, Y. Li, O. B. Aslan, D. R. Reichman, M. S. Hybertsen, and T. F. Heinz, Phys. Rev. Lett. 113, 076802 (2014). 10.1103/PhysRevLett.113.076802",
+                            "@id": "39",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2014"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": [
+                                        {
+                                            "$": "076802",
+                                            "@idtype": "ARTNUM"
+                                        },
+                                        {
+                                            "$": "84908045379",
+                                            "@idtype": "SGR"
+                                        }
+                                    ]
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "113"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "A.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Chernikov",
+                                            "ce:indexed-name": "Chernikov A."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "T.C.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Berkelbach",
+                                            "ce:indexed-name": "Berkelbach T.C."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "H.M.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Hill",
+                                            "ce:indexed-name": "Hill H.M."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "A.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Rigosi",
+                                            "ce:indexed-name": "Rigosi A."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "Y.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Li",
+                                            "ce:indexed-name": "Li Y."
+                                        },
+                                        {
+                                            "@seq": "6",
+                                            "ce:initials": "O.B.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Aslan",
+                                            "ce:indexed-name": "Aslan O.B."
+                                        },
+                                        {
+                                            "@seq": "7",
+                                            "ce:initials": "D.R.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Reichman",
+                                            "ce:indexed-name": "Reichman D.R."
+                                        },
+                                        {
+                                            "@seq": "8",
+                                            "ce:initials": "M.S.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Hybertsen",
+                                            "ce:indexed-name": "Hybertsen M.S."
+                                        },
+                                        {
+                                            "@seq": "9",
+                                            "ce:initials": "T.F.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Heinz",
+                                            "ce:indexed-name": "Heinz T.F."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Phys. Rev. Lett."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "H. P. Komsa and A. V. Krasheninnikov, Phys. Rev. B 86, 241201 (2012). 10.1103/PhysRevB.86.241201",
+                            "@id": "40",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2012"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": [
+                                        {
+                                            "$": "241201",
+                                            "@idtype": "ARTNUM"
+                                        },
+                                        {
+                                            "$": "84871087159",
+                                            "@idtype": "SGR"
+                                        }
+                                    ]
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "86"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "H.P.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Komsa",
+                                            "ce:indexed-name": "Komsa H.P."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "A.V.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Krasheninnikov",
+                                            "ce:indexed-name": "Krasheninnikov A.V."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Phys. Rev. B"
+                            }
+                        },
+                        {
+                            "ref-fulltext": "Y. Li, Y. Rao, K. F. Mak, Y. You, S. Wang, C. R. Dean, and T. F. Heinz, Nano Lett. 13, 3329 (2013). 10.1021/nl401561r",
+                            "@id": "41",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2013"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "84880164666",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "13"
+                                    },
+                                    "pagerange": {
+                                        "@first": "3329"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "Y.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Li",
+                                            "ce:indexed-name": "Li Y."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "Y.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Rao",
+                                            "ce:indexed-name": "Rao Y."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "K.F.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Mak",
+                                            "ce:indexed-name": "Mak K.F."
+                                        },
+                                        {
+                                            "@seq": "4",
+                                            "ce:initials": "Y.",
+                                            "@_fa": "true",
+                                            "ce:surname": "You",
+                                            "ce:indexed-name": "You Y."
+                                        },
+                                        {
+                                            "@seq": "5",
+                                            "ce:initials": "S.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Wang",
+                                            "ce:indexed-name": "Wang S."
+                                        },
+                                        {
+                                            "@seq": "6",
+                                            "ce:initials": "C.R.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Dean",
+                                            "ce:indexed-name": "Dean C.R."
+                                        },
+                                        {
+                                            "@seq": "7",
+                                            "ce:initials": "T.F.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Heinz",
+                                            "ce:indexed-name": "Heinz T.F."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Nano Lett."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "J. A. Wilson and A. D. Yoffe, Adv. Phys. 18, 193 (1969). 10.1080/00018736900101307",
+                            "@id": "42",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "1969"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": {
+                                        "$": "84918249181",
+                                        "@idtype": "SGR"
+                                    }
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "18"
+                                    },
+                                    "pagerange": {
+                                        "@first": "193"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "J.A.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Wilson",
+                                            "ce:indexed-name": "Wilson J.A."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "A.D.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Yoffe",
+                                            "ce:indexed-name": "Yoffe A.D."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Adv. Phys."
+                            }
+                        },
+                        {
+                            "ref-fulltext": "T. Stauber, N. M. R. Peres, and A. K. Geim, Phys. Rev. B 78, 085432 (2008). 10.1103/PhysRevB.78.085432",
+                            "@id": "43",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2008"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": [
+                                        {
+                                            "$": "085432",
+                                            "@idtype": "ARTNUM"
+                                        },
+                                        {
+                                            "$": "50849120430",
+                                            "@idtype": "SGR"
+                                        }
+                                    ]
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "78"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "T.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Stauber",
+                                            "ce:indexed-name": "Stauber T."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "N.M.R.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Peres",
+                                            "ce:indexed-name": "Peres N.M.R."
+                                        },
+                                        {
+                                            "@seq": "3",
+                                            "ce:initials": "A.K.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Geim",
+                                            "ce:indexed-name": "Geim A.K."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Phys. Rev. B"
+                            }
+                        },
+                        {
+                            "ref-fulltext": "Z. Li and J. P. Carbotte, Phys. Rev. B 86, 205425 (2012). 10.1103/PhysRevB.86.205425",
+                            "@id": "44",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2012"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": [
+                                        {
+                                            "$": "205425",
+                                            "@idtype": "ARTNUM"
+                                        },
+                                        {
+                                            "$": "84870201966",
+                                            "@idtype": "SGR"
+                                        }
+                                    ]
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "86"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "Z.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Li",
+                                            "ce:indexed-name": "Li Z."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "J.P.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Carbotte",
+                                            "ce:indexed-name": "Carbotte J.P."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Phys. Rev. B"
+                            }
+                        },
+                        {
+                            "ref-fulltext": "H. Rostami and R. Asgari, Phys. Rev. B 89, 115413 (2014). 10.1103/PhysRevB.89.115413",
+                            "@id": "45",
+                            "ref-info": {
+                                "ref-publicationyear": {
+                                    "@first": "2014"
+                                },
+                                "refd-itemidlist": {
+                                    "itemid": [
+                                        {
+                                            "$": "115413",
+                                            "@idtype": "ARTNUM"
+                                        },
+                                        {
+                                            "$": "84896963264",
+                                            "@idtype": "SGR"
+                                        }
+                                    ]
+                                },
+                                "ref-volisspag": {
+                                    "voliss": {
+                                        "@volume": "89"
+                                    }
+                                },
+                                "ref-authors": {
+                                    "author": [
+                                        {
+                                            "@seq": "1",
+                                            "ce:initials": "H.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Rostami",
+                                            "ce:indexed-name": "Rostami H."
+                                        },
+                                        {
+                                            "@seq": "2",
+                                            "ce:initials": "R.",
+                                            "@_fa": "true",
+                                            "ce:surname": "Asgari",
+                                            "ce:indexed-name": "Asgari R."
+                                        }
+                                    ]
+                                },
+                                "ref-sourcetitle": "Phys. Rev. B"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "affiliation": [
+        {
+            "affiliation-city": "Kiev",
+            "@id": "60023137",
+            "affilname": "Taras Shevchenko National University of Kyiv",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023137",
+            "affiliation-country": "Ukraine"
+        },
+        {
+            "affiliation-city": "Notre Dame",
+            "@id": "60021508",
+            "affilname": "University of Notre Dame",
+            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021508",
+            "affiliation-country": "United States"
+        }
+    ],
+    "coredata": {
+        "srctype": "j",
+        "prism:issueIdentifier": "8",
+        "eid": "2-s2.0-84940434926",
+        "dc:description": "\u00a9 2015 AIP Publishing LLC. The complex optical constants of single layer MoS2, MoSe2, and WSe2 transition metal dichalcogenides (TMDCs) have been measured using concerted frequency-dependent transmittance and reflectance measurements. Absolute absorptivities as well as complex refractive indices and dielectric permittivities have been extracted. Comparisons to associated bulk responses reveal differences due to increased electron-hole interactions in single layer TMDCs. In parallel, corresponding complex optical conductivities (\u03c3) have been determined. For MoS2, extracted \u03c3-values qualitatively agree with recent theoretical estimates. Significant differences exist, though, between experiment and theory regarding the imaginary part of \u03c3. In all cases, the current approach distinguishes itself to other measurements of single layer TMDC optical constants in which it does not rely on Kramers-Kronig transformations of reflectance data.",
+        "prism:coverDate": "2015-08-24",
+        "prism:aggregationType": "Journal",
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84940434926",
+        "subtypeDescription": "Article",
+        "dc:creator": {
+            "author": [
+                {
+                    "ce:given-name": "Yurii V.",
+                    "preferred-name": {
+                        "ce:given-name": "Yurii V.",
+                        "ce:initials": "Y.V.",
+                        "ce:surname": "Morozov",
+                        "ce:indexed-name": "Morozov Y."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "Y.V.",
+                    "@_fa": "true",
+                    "affiliation": [
+                        {
+                            "@id": "60021508",
+                            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021508"
+                        },
+                        {
+                            "@id": "60023137",
+                            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023137"
+                        }
+                    ],
+                    "ce:surname": "Morozov",
+                    "@auid": "55966498300",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/55966498300",
+                    "ce:indexed-name": "Morozov Y.V."
+                }
+            ]
+        },
+        "link": [
+            {
+                "@_fa": "true",
+                "@rel": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/84940434926"
+            },
+            {
+                "@_fa": "true",
+                "@rel": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84940434926&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@rel": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84940434926&origin=inward"
+            }
+        ],
+        "prism:publicationName": "Applied Physics Letters",
+        "source-id": "27030",
+        "citedby-count": "23",
+        "prism:volume": "107",
+        "subtype": "ar",
+        "dc:title": "Optical constants and dynamic conductivities of single layer MoS2, MoSe2, and WSe2",
+        "openaccess": null,
+        "openaccessFlag": null,
+        "prism:doi": "10.1063/1.4929700",
+        "prism:issn": "00036951",
+        "article-number": "083103",
+        "dc:identifier": "SCOPUS_ID:84940434926",
+        "dc:publisher": "American Institute of Physics Inc. subs@aip.org"
+    },
+    "idxterms": {
+        "mainterm": [
+            {
+                "$": "Complex refractive index",
+                "@weight": "b",
+                "@candidate": "n"
+            },
+            {
+                "$": "Dielectric permittivities",
+                "@weight": "b",
+                "@candidate": "n"
+            },
+            {
+                "$": "Dynamic conductivity",
+                "@weight": "b",
+                "@candidate": "n"
+            },
+            {
+                "$": "Electron-hole interactions",
+                "@weight": "b",
+                "@candidate": "n"
+            },
+            {
+                "$": "Frequency dependent",
+                "@weight": "b",
+                "@candidate": "n"
+            },
+            {
+                "$": "Kramers-Kronig transformation",
+                "@weight": "b",
+                "@candidate": "n"
+            },
+            {
+                "$": "Transition metal dichalcogenides",
+                "@weight": "b",
+                "@candidate": "n"
+            },
+            {
+                "$": "Transmittance and reflectances",
+                "@weight": "b",
+                "@candidate": "n"
+            }
+        ]
+    },
+    "language": {
+        "@xml:lang": "eng"
+    },
+    "authkeywords": null,
+    "subject-areas": {
+        "subject-area": [
+            {
+                "@_fa": "true",
+                "$": "Physics and Astronomy (miscellaneous)",
+                "@code": "3101",
+                "@abbrev": "PHYS"
+            }
+        ]
+    },
+    "authors": {
+        "author": [
+            {
+                "ce:given-name": "Yurii V.",
+                "preferred-name": {
+                    "ce:given-name": "Yurii V.",
+                    "ce:initials": "Y.V.",
+                    "ce:surname": "Morozov",
+                    "ce:indexed-name": "Morozov Y."
+                },
+                "@seq": "1",
+                "ce:initials": "Y.V.",
+                "@_fa": "true",
+                "affiliation": [
+                    {
+                        "@id": "60021508",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021508"
+                    },
+                    {
+                        "@id": "60023137",
+                        "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60023137"
+                    }
+                ],
+                "ce:surname": "Morozov",
+                "@auid": "55966498300",
+                "author-url": "https://api.elsevier.com/content/author/author_id/55966498300",
+                "ce:indexed-name": "Morozov Y.V."
+            },
+            {
+                "ce:given-name": "Masaru",
+                "preferred-name": {
+                    "ce:given-name": "Masaru",
+                    "ce:initials": "M.",
+                    "ce:surname": "Kuno",
+                    "ce:indexed-name": "Kuno M."
+                },
+                "@seq": "2",
+                "ce:initials": "M.",
+                "@_fa": "true",
+                "affiliation": {
+                    "@id": "60021508",
+                    "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60021508"
+                },
+                "ce:surname": "Kuno",
+                "@auid": "7102147205",
+                "author-url": "https://api.elsevier.com/content/author/author_id/7102147205",
+                "ce:indexed-name": "Kuno M."
+            }
+        ]
+    }
+}
